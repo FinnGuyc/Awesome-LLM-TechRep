@@ -29,6 +29,11 @@ Baichuan2: https://arxiv.org/abs/2309.10305
 
 Baichuan2-Sum: https://arxiv.org/abs/2401.15496
 
+## Yi
+Yi: https://arxiv.org/abs/2403.04652
+
+Yi-Coder: https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md
+
 ## ChatGPT
 GPT: https://arxiv.org/abs/2305.10435
 
@@ -52,6 +57,7 @@ LLaMA-3: https://arxiv.org/abs/2407.21783
 LLaMA-3.1: https://ai.meta.com/blog/meta-llama-3-1/
 
 LLaMA-3.2: https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/
+
 
 
 
