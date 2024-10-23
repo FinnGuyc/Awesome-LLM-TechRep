@@ -58,6 +58,7 @@ LLaMA-3.1: https://ai.meta.com/blog/meta-llama-3-1/
 
 LLaMA-3.2: https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/
 
-
+## Mixtral
+Mistral 7B: https://arxiv.org/abs/2310.06825
 
 
