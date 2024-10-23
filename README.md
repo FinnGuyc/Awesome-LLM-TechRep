@@ -58,7 +58,31 @@ LLaMA-3.1: https://ai.meta.com/blog/meta-llama-3-1/
 
 LLaMA-3.2: https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/
 
-## Mixtral
+## Mistral
 Mistral 7B: https://arxiv.org/abs/2310.06825
+
+## Claude
+Claude: https://www.anthropic.com/news/introducing-claude
+
+Claude 2: https://www.anthropic.com/news/claude-2
+
+Claude pro: https://www.anthropic.com/news/claude-pro
+
+Claude 2.1: https://www.anthropic.com/news/claude-2-1
+
+Claude 3: https://www.anthropic.com/news/claude-3-family
+
+Claude 3: https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf
+
+Claude 3.5: https://www.anthropic.com/news/3-5-models-and-computer-use
+
+## Gemini
+Gemini: https://arxiv.org/abs/2312.11805
+
+Gemini 1.5: https://arxiv.org/abs/2403.05530
+
+
+
+
 
 
