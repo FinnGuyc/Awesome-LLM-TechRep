@@ -12,10 +12,16 @@ Qwen2-Audio: https://export.arxiv.org/abs/2407.10759
 
 Qwen2.5-Coder: https://arxiv.org/abs/2409.12186
 
+QwQ: https://qwenlm.github.io/blog/qwq-32b-preview/
+
+QvQ: https://qwenlm.github.io/blog/qvq-72b-preview/
+
 ## Deepseek
 Deepseek: https://arxiv.org/abs/2401.02954
 
 Deepseek-v2: https://arxiv.org/abs/2405.04434
+
+Deepseek-v3: https://arxiv.org/abs/2412.19437
 
 ## MiniCPM
 MiniCPM: https://arxiv.org/abs/2404.06395
@@ -81,7 +87,7 @@ Gemini: https://arxiv.org/abs/2312.11805
 
 Gemini 1.5: https://arxiv.org/abs/2403.05530
 
-
+Gemini 2.0: https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/#ceo-message
 
 
 
