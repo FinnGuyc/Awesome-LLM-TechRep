@@ -8,9 +8,17 @@ Qwen-VL: https://arxiv.org/abs/2308.12966
 
 Qwen2: https://arxiv.org/abs/2407.10671
 
+Qwen2-VL: https://arxiv.org/abs/2409.12191
+
 Qwen2-Audio: https://export.arxiv.org/abs/2407.10759
 
+Qwen2.5: https://arxiv.org/abs/2412.15115
+
 Qwen2.5-Coder: https://arxiv.org/abs/2409.12186
+
+Qwen2.5-Math: https://arxiv.org/abs/2409.12122
+
+Qwen2.5-1M: https://arxiv.org/abs/2501.15383
 
 QwQ: https://qwenlm.github.io/blog/qwq-32b-preview/
 
@@ -22,6 +30,12 @@ Deepseek: https://arxiv.org/abs/2401.02954
 Deepseek-v2: https://arxiv.org/abs/2405.04434
 
 Deepseek-v3: https://arxiv.org/abs/2412.19437
+
+Deepseek-R1: https://arxiv.org/abs/2501.12948
+
+Janus: https://arxiv.org/abs/2410.13848
+
+Janus-pro: https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf
 
 ## MiniCPM
 MiniCPM: https://arxiv.org/abs/2404.06395
@@ -40,6 +54,8 @@ Yi: https://arxiv.org/abs/2403.04652
 
 Yi-Coder: https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md
 
+Yi-Lightning: https://arxiv.org/abs/2412.01253
+
 ## ChatGPT
 GPT: https://arxiv.org/abs/2305.10435
 
@@ -51,7 +67,13 @@ GPT-4: https://arxiv.org/abs/2303.08774
 
 GPT-4o: https://openai.com/index/hello-gpt-4o/
 
+GPT-4o-mini: https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/
+
 GPT-o1: https://openai.com/index/learning-to-reason-with-llms/
+
+GPT-o1-mini: https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/
+
+GPT-o3-mini: https://openai.com/index/openai-o3-mini/
 
 ## LLaMA
 LLaMA: https://arxiv.org/abs/2302.13971
