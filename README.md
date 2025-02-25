@@ -20,6 +20,8 @@ Qwen2.5-Math: https://arxiv.org/abs/2409.12122
 
 Qwen2.5-1M: https://arxiv.org/abs/2501.15383
 
+Qwen2.5-VL: https://arxiv.org/abs/2502.13923
+
 QwQ: https://qwenlm.github.io/blog/qwq-32b-preview/
 
 QvQ: https://qwenlm.github.io/blog/qvq-72b-preview/
@@ -41,6 +43,8 @@ Janus-pro: https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.
 MiniCPM: https://arxiv.org/abs/2404.06395
 
 MiniCPM-v: https://arxiv.org/abs/2408.01800
+
+MiniCPM-o-2.6: https://openbmb.notion.site/MiniCPM-o-2-6-A-GPT-4o-Level-MLLM-for-Vision-Speech-and-Multimodal-Live-Streaming-on-Your-Phone-185ede1b7a558042b5d5e45e6b237da9
 
 ## Baichuan
 Baichuan-Omin: https://arxiv.org/abs/2410.08565
