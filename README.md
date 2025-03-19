@@ -39,6 +39,9 @@ Janus: https://arxiv.org/abs/2410.13848
 
 Janus-pro: https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf
 
+## Skywork
+Skywork R1V: https://github.com/SkyworkAI/Skywork-R1V/blob/main/Skywork_R1V.pdf
+
 ## MiniCPM
 MiniCPM: https://arxiv.org/abs/2404.06395
 
