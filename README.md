@@ -118,6 +118,17 @@ Gemini 1.5: https://arxiv.org/abs/2403.05530
 
 Gemini 2.0: https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/#ceo-message
 
+## Phi
+Phi-1.5: https://arxiv.org/abs/2309.05463
+
+Phi-2: https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/
+
+Phi-3: https://arxiv.org/abs/2404.14219
+
+Phi-4: https://arxiv.org/abs/2412.08905
+
+Phi-4-mini: https://arxiv.org/abs/2503.01743
+
 
 
 
