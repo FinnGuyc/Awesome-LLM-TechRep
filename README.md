@@ -129,6 +129,12 @@ Phi-4: https://arxiv.org/abs/2412.08905
 
 Phi-4-mini: https://arxiv.org/abs/2503.01743
 
+## INTELLECT
+intellect-1: https://github.com/PrimeIntellect-ai/prime/blob/main/INTELLECT_1_Technical_Report.pdf
+
+intellect-2: https://storage.googleapis.com/public-technical-paper/INTELLECT_2_Technical_Report.pdf
+
+
 
 
 
