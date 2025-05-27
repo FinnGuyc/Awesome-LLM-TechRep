@@ -26,6 +26,8 @@ QwQ: https://qwenlm.github.io/blog/qwq-32b-preview/
 
 QvQ: https://qwenlm.github.io/blog/qvq-72b-preview/
 
+QwenLong-L1: https://www.arxiv.org/abs/2505.17667
+
 ## Deepseek
 Deepseek: https://arxiv.org/abs/2401.02954
 
