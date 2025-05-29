@@ -28,6 +28,8 @@ QvQ: https://qwenlm.github.io/blog/qvq-72b-preview/
 
 QwenLong-L1: https://www.arxiv.org/abs/2505.17667
 
+WorldPM: https://arxiv.org/abs/2505.10527
+
 ## Deepseek
 Deepseek: https://arxiv.org/abs/2401.02954
 
