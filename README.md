@@ -37,6 +37,8 @@ Deepseek-v2: https://arxiv.org/abs/2405.04434
 
 Deepseek-v3: https://arxiv.org/abs/2412.19437
 
+Deepseek-v3 insight: https://arxiv.org/pdf/2505.09343
+
 Deepseek-R1: https://arxiv.org/abs/2501.12948
 
 Janus: https://arxiv.org/abs/2410.13848
